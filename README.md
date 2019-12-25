@@ -1,5 +1,7 @@
 three.proton
 ======
+** This is a fork from https://github.com/a-jie/three.proton that I published on npm so I could use it in my project. I am not the original author. **
+
 three.proton is a magical 3d particle engine using [three.js](https://github.com/mrdoob/three.js). It is based on the [Proton](https://github.com/a-jie/Proton) Engine library. It inherited Proton's most api.<br>
 I think it is the simplest three.js particle engine.Check out examples at https://a-jie.github.io/three.proton/<br>
 

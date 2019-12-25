@@ -1,6 +1,6 @@
 {
   "name": "three.proton.js",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "three.proton is a magical 3d particle engine using [three.js]",
   "main": "./build/three.proton.min.js",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a-jie/three.proton.git"
+    "url": "git+https://github.com/maemaemae3/three.proton.git"
   },
   "keywords": [
     "particle",
@@ -22,7 +22,7 @@
   "author": "a-jie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/a-jie/three.proton/issues"
+    "url": "https://github.com/maemaemae3/three.proton/issues"
   },
-  "homepage": "https://github.com/a-jie/three.proton#readme"
+  "homepage": "https://github.com/maemaemae3/three.proton#readme"
 }
