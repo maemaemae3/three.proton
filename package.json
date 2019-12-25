@@ -1,5 +1,5 @@
 {
-  "name": "three.proton.js",
+  "name": "@tempe/three.proton.js",
   "version": "1.0.0",
   "description": "three.proton is a magical 3d particle engine using [three.js]",
   "main": "./build/three.proton.min.js",
